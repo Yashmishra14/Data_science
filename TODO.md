@@ -1,0 +1,5 @@
+- [x] Update README.md with project title and description
+- [x] Add project structure section describing directories and contents
+- [x] Include requirements section (Python, libraries)
+- [x] Add usage instructions for running notebooks and scripts
+- [x] Add any additional sections like contributing or license if applicable
